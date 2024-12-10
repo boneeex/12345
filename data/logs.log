@@ -1,0 +1,60 @@
+10-12-2024 20:29	 message: Launch
+10-12-2024 20:30	 message: list index out of range
+10-12-2024 20:30	 message: Launch
+10-12-2024 20:30	 message: Launch
+10-12-2024 20:31	 message: list index out of range
+10-12-2024 20:31	 message: Launch
+10-12-2024 20:31	 message: list index out of range
+10-12-2024 20:31	 message: Launch
+10-12-2024 20:31	 message: Launch
+10-12-2024 20:32	 message: Launch
+10-12-2024 20:32	 message: Launch
+10-12-2024 20:32	 message: Launch
+10-12-2024 20:33	 message: Launch
+10-12-2024 20:33	 message: list index out of range
+10-12-2024 20:33	 message: Launch
+10-12-2024 20:33	 message: list index out of range
+10-12-2024 20:33	 message: Launch
+10-12-2024 20:33	 message: Launch
+10-12-2024 20:33	 message: list index out of range
+10-12-2024 20:33	 message: Launch
+10-12-2024 20:34	 message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E472A90>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E473A90>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E474A50>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E472250>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E472ED0>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E471CD0>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E470CD0>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E4757D0>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E476750>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:34	 message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7584084318:AAFSYrF2adJdespKkuGVo5JObVfjx0QLgy4/getUpdates?offset=7203195&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F64E4776D0>: Failed to establish a new connection: [WinError 10013] Сделана попытка доступа к сокету методом, запрещенным правами доступа'))
+10-12-2024 20:34	 message: Launch
+10-12-2024 20:35	 message: Launch
+10-12-2024 20:35	 message: list index out of range
+10-12-2024 20:35	 message: Launch
+10-12-2024 20:35	 message: list index out of range
+10-12-2024 20:35	 message: Launch
+10-12-2024 20:36	 message: Launch
+10-12-2024 20:36	 message: list index out of range
+10-12-2024 20:36	 message: Launch
+10-12-2024 20:36	 message: Launch
+10-12-2024 20:37	 message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+10-12-2024 20:37	 message: Launch
+10-12-2024 20:44	 message: Launch
+10-12-2024 20:45	 message: list index out of range
+10-12-2024 20:45	 message: Launch
+10-12-2024 20:45	 message: list index out of range
+10-12-2024 20:45	 message: Launch
